@@ -36,9 +36,7 @@ Tech Stack
 ---
 
 GitHub Link
-
-👉 [View the full source code here](https://github.com/your-username/your-repo-name)  
-_(Replace this with your real GitHub link)_
+> https://github.com/ST10467769/practicum-assesment
 
 ---
 
